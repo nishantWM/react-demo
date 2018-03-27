@@ -1,0 +1,21 @@
+.main{
+    display: block;
+    background-color: aqua;
+    /*align-content: center;*/
+}
+.container {
+
+    display: block;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.input{
+    display: block;
+    margin: 5px;
+}
+
